@@ -1,0 +1,105 @@
+.heading2Xl {
+  font-size: 2.5rem;
+  line-height: 1.2;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0;
+  text-align: center;
+}
+
+.headingXl {
+  font-size: 2rem;
+  line-height: 1.3;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0;
+}
+
+.headingLg {
+  font-size: 1.5rem;
+  line-height: 1.4;
+  margin: 1rem 0;
+}
+
+.headingLgCentre {
+  font-size: 1.5rem;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.headingMd {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.headingMdCentre {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.socialIcon {
+  width: 20px;
+  padding-bottom: 2px;
+}
+
+.rightSpacedIcon {
+  height: 20px;
+}
+
+.rightSpacedIcon,
+.downloadIcon {
+  margin-right: 10px;
+}
+
+.openingPara {
+  margin: 0 10% 20px 10%;
+}
+
+.cardText {
+  font-size: 1rem;
+  margin-bottom: 20px;
+}
+
+.downloadIcon {
+  width: 15px;
+}
+
+.ourWorkButton {
+  font-size: 0.8rem;
+  display: inline-flex;
+}
+
+.downloadText {
+  padding-top: 0.2rem;
+}
+
+.borderCircle {
+  border-radius: 9999px;
+}
+
+.colorInherit {
+  color: inherit;
+}
+
+.padding1px {
+  padding-top: 1px;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.listItem {
+  margin: 0 0 1.25rem;
+}
+
+.lightText {
+  color: #666;
+}
+
+.appleImage {
+  width: 10;
+}
