@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://windybank.net/sitemap.xml
+Sitemap: https://www.tempestsoft.com/sitemap.xml
